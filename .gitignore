@@ -15,7 +15,7 @@
 # Precompiled Headers
 *.gch
 *.pch
-
+labrabota2-1
 # Libraries
 *.lib
 *.a
@@ -35,13 +35,14 @@
 *.i*86
 *.x86_64
 *.hex
-hello
+main
 
 # Debug files
 *.dSYM/
 *.su
 *.idb
 *.pdb
+.ccls-cache/
 
 # Kernel Module Compile Results
 *.mod*
