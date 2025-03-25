@@ -15,7 +15,7 @@
 # Precompiled Headers
 *.gch
 *.pch
-
+labrabota2-1
 # Libraries
 *.lib
 *.a
@@ -42,6 +42,7 @@ main
 *.su
 *.idb
 *.pdb
+.ccls-cache/
 
 # Kernel Module Compile Results
 *.mod*
