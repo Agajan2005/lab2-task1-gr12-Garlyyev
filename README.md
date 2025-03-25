@@ -9,4 +9,4 @@ Garlyyev Agajan gr 12
 # Building
 
 
-https://github.com/Agajan2005/lab2-task1-gr12-Garlyyev/tree/master/src
+* [GITHUB](https://github.com/Agajan2005/lab2-task1-gr12-Garlyyev/blob/master/src/main.c)
